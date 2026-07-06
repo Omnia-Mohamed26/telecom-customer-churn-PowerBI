@@ -43,10 +43,10 @@ Analyzes customer demographics, service subscriptions, payment methods, and cont
 
 ---
 
-### 3. Churn Analysis
+### 3. Deep Dive Insights
 Explores the major factors influencing customer churn, including tenure, monthly charges, internet services, and contract types.
 
-![Churn Analysis](3_Churn_Analysis.png)
+![Deep Dive Insights](3_Deep Dive Insights.png)
 
 ---
 
@@ -55,7 +55,7 @@ Explores the major factors influencing customer churn, including tenure, monthly
 - Telecom_Customer_Churn.pdf
 - 1_Executive_overview.png
 - 2_Customer_Analysis.png
-- 3_Churn_Analysis.png
+- 3_Deep Dive Insights.png
 - README.md
 
 ---
