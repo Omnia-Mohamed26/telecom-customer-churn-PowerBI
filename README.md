@@ -1,78 +1,115 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![DAX & Power Query](https://img.shields.io/badge/DAX%20%26%20Power%20Query-Used-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # 📊 Telecom Customer Churn Dashboard
 
-## 📌 Project Overview
-
-This Business Intelligence project was developed using **Power BI** to analyze customer churn in the telecommunications industry. The dashboard provides interactive visualizations and key performance indicators (KPIs) to help stakeholders understand customer behavior, identify churn patterns, and support data-driven decision-making.
+An interactive Business Intelligence dashboard built with **Power BI** to analyze customer churn in the telecommunications industry. The project leverages **Power Query**, **DAX**, and **data modeling** to transform raw data into meaningful insights that support data-driven business decisions.
 
 ---
 
-## 🎯 Project Objectives
+# 📌 Project Overview
+
+Customer churn is one of the most critical challenges facing telecom companies. This dashboard provides a comprehensive analysis of customer behavior, contract types, services, and payment methods to identify churn patterns and support customer retention strategies.
+
+---
+
+# 🎯 Project Objectives
 
 - Analyze customer churn trends.
 - Monitor key business KPIs.
 - Identify high-risk customer segments.
-- Evaluate the impact of services, contracts, and payment methods on customer churn.
-- Support strategic business decisions through interactive dashboards.
+- Explore the relationship between customer services and churn.
+- Analyze contract types and payment methods.
+- Support business decision-making through interactive visualizations.
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 - Power BI
 - Power Query
 - DAX
+- Data Modeling
 - Calculated Columns
 - Custom Columns
-- Data Modeling
 
 ---
 
-## 📈 Dashboard Pages
+# 📈 Dashboard Pages
 
-### 1. Executive Overview
-Provides an executive summary of customer churn with key KPIs and high-level business insights.
+## 1️⃣ Executive Overview
 
-![Executive Overview](1_Executive_overview.png)
+Provides a high-level overview of business performance, customer distribution, and key churn KPIs.
+
+![Executive Overview](1_Executive_Overview.png)
 
 ---
 
-### 2. Customer Analysis
-Analyzes customer demographics, service subscriptions, payment methods, and contract types.
+## 2️⃣ Customer Analysis
+
+Analyzes customer demographics, services, payment methods, and contract distribution to better understand customer behavior.
 
 ![Customer Analysis](2_Customer_Analysis.png)
 
 ---
 
-### 3. Deep Dive Insights
-Explores the major factors influencing customer churn, including tenure, monthly charges, internet services, and contract types.
+## 3️⃣ Deep Dive Insights
 
-![Deep Dive Insights](3_Deep Dive Insights.png)
+Explores the main factors influencing customer churn, helping identify patterns and opportunities to improve customer retention.
 
----
-
-## 📂 Repository Contents
-
-- Telecom_Customer_Churn.pdf
-- 1_Executive_overview.png
-- 2_Customer_Analysis.png
-- 3_Deep Dive Insights.png
-- README.md
+![Deep Dive Insights](3_Deep_Dive_Insights.png)
 
 ---
 
-## 💼 Business Value
+# 📊 Key Features
 
-This dashboard enables decision-makers to:
+- Interactive KPI Cards
+- Dynamic Filters (Slicers)
+- Customer Segmentation
+- Churn Rate Analysis
+- Service Type Analysis
+- Contract Analysis
+- Payment Method Analysis
+- Tenure Analysis
+- Drill-down Insights
 
-- Track customer churn performance.
+---
+
+# 💼 Business Value
+
+This dashboard enables stakeholders to:
+
+- Monitor customer churn performance.
 - Identify customer segments with high churn risk.
-- Discover key drivers behind customer attrition.
-- Support retention strategies using data-driven insights.
+- Understand the drivers behind customer attrition.
+- Support strategic decisions with interactive business insights.
+- Improve customer retention strategies.
 
 ---
 
-## 👩‍💻 Developed By
+# 📂 Repository Contents
+
+- README.md
+- Telecom_Customer_Churn.pdf
+- 1_Executive_Overview.png
+- 2_Customer_Analysis.png
+- 3_Deep_Dive_Insights.png
+
+> **Note:** The Power BI (.pbix) file is intentionally not included in this repository.
+
+---
+
+# 🚀 How to View the Dashboard
+
+1. Open **Telecom_Customer_Churn.pdf** to explore all dashboard pages.
+2. Browse the screenshots for a quick overview of each report page.
+
+---
+
+# 👩‍💻 Author
 
 **Omnia Mohamed**
 
-Power BI | Data Analytics | Business Intelligence
+- **GitHub:** https://github.com/omnia-mohamed26
+- **LinkedIn:** https://www.linkedin.com/in/omnia26
