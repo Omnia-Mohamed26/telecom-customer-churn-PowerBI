@@ -2,7 +2,7 @@
 ![DAX & Power Query](https://img.shields.io/badge/DAX%20%26%20Power%20Query-Used-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-# 📊 Telecom Customer Churn Dashboard
+# 📊 Telecom Customer Churn Power BI
 
 An interactive Business Intelligence dashboard built with **Power BI** to analyze customer churn in the telecommunications industry. The project leverages **Power Query**, **DAX**, and **data modeling** to transform raw data into meaningful insights that support data-driven business decisions.
 
