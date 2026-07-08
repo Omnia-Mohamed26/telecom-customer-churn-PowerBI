@@ -2,7 +2,7 @@
 ![DAX & Power Query](https://img.shields.io/badge/DAX%20%26%20Power%20Query-Used-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-# 📊 Telecom Customer Churn Dashboard
+# 📡 Telecom Customer Churn Dashboard
 
 <p align="center">
   <img src="1_Executive_overview.png" alt="Telecom Customer Churn Dashboard" width="100%">
